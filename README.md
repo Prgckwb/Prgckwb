@@ -1,4 +1,4 @@
-### Hi there 👋
+### 今日はもう寝ます 👋
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prgckwb&theme=vue-dark&show_icons=true)](https://github.com/Prgckwb/github-readme-stats)
 
