@@ -24,16 +24,18 @@ I studied at the [**Yanai Lab**](https://mm.cs.uec.ac.jp/), The University of El
 - 📚 Running an internal Kaggle study group (Kaggle ゼミ)
 - 📫 Contact: dev@prgckwb.com
 
-## 🛠️ Projects
+## 🤗 Hugging Face
 
-| Project | Description |
+**[TrpFrog-Diffusion](https://huggingface.co/collections/Prgckwb/trpfrog-diffusion)** — text-to-image models fine-tuned to generate TrpFrog images.
+
+| Base model | Models |
 | --- | --- |
-| [**TrpFrog-Diffusion**](https://huggingface.co/Prgckwb) | Fine-tuned / LoRA models (SDXL, SD3.5, FLUX, Z-Image) for generating TrpFrog images |
-| [**easy-diffusers**](https://github.com/Prgckwb/easy-diffusers) | A brief introduction to 🤗 Diffusers and its simpler flow |
-| [**huggingface-docs-ja**](https://github.com/Prgckwb/huggingface-docs-ja) | Japanese translation project for Hugging Face docs |
-| [**richlog**](https://github.com/Prgckwb/richlog) | Library to get a rich logger easily |
-| [**refcoco**](https://github.com/Prgckwb/refcoco) | Unofficial utility tool for downloading and validating the RefCOCO dataset |
-| [**kaggle-gpu-image**](https://github.com/Prgckwb/kaggle-gpu-image) | Docker image for Kaggle GPU environments |
+| Stable Diffusion (DreamBooth) | [trpfrog-diffusion](https://huggingface.co/Prgckwb/trpfrog-diffusion) |
+| SDXL | [trpfrog-sdxl](https://huggingface.co/Prgckwb/trpfrog-sdxl) / [LoRA](https://huggingface.co/Prgckwb/trpfrog-sdxl-lora) |
+| SD3.5 Medium | [trpfrog-sd3.5-medium](https://huggingface.co/Prgckwb/trpfrog-sd3.5-medium) / [LoRA](https://huggingface.co/Prgckwb/trpfrog-sd3.5-medium-lora) |
+| SD3.5 Large | [trpfrog-sd3.5-large](https://huggingface.co/Prgckwb/trpfrog-sd3.5-large) / [LoRA](https://huggingface.co/Prgckwb/trpfrog-sd3.5-large-lora) |
+| FLUX.2 [klein] 4B | [LoRA](https://huggingface.co/Prgckwb/trpfrog-lora-flux2-klein-4b-v1) |
+| Z-Image | [LoRA](https://huggingface.co/Prgckwb/trpfrog-lora-z-image-base-v1) |
 
 ## 🎤 Talks
 
@@ -51,8 +53,8 @@ I studied at the [**Yanai Lab**](https://mm.cs.uec.ac.jp/), The University of El
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prgckwb&show_icons=true&theme=vue&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prgckwb&theme=vue&layout=compact" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Prgckwb&show_icons=true&theme=vue" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prgckwb&theme=vue&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
